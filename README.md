@@ -33,6 +33,18 @@ Our architecture merges:
 
 ---
 
+## 🎬 Welcome, Developer! 👋
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J4gul3ZYwUk" target="_blank">
+    <img src="https://img.youtube.com/vi/J4gul3ZYwUk/maxresdefault.jpg" width="90%" alt="STELS Presentation">
+  </a>
+  <br>
+  <em>“STELS sees. Analyzes. Acts.” — Watch our core vision in motion.</em>
+</p>
+
+---
+
 ## 🖼️ Vision
 > “STELS is not a company.  
 > It’s a living, learning network — an AI organism evolving through collaboration.”
